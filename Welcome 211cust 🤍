@@ -1,0 +1,16 @@
+twurl -A 'Content-type: application/json' /1.1/direct_messages/welcome_messages/new.json -d '{"name": "Welcome Message 211cust 🤍❕", "welcome_message": {"message_data": {"text": "hello! welcome to 211carts. please read all of this carefully before sending us a message, thank you.
+
+❕READ CARRD BEFORE PROCEEDING OR PURCHASING ANYTHING. please refrain from asking questions if you haven't read our carrd, because every essential info is clearly stated in there already. (https://211carts-guide.carrd.co/)
+❕FP only, no DP
+❕split reqs and persods are always open. non-enstars persods are OK
+❕payment: spay, gopay, BCA, qris
+❕for persods, you must pay first before we checkout your link
+❕ETA 1-1.5 months
+❕all prices given are bersih ina
+❕max timbun 2 bulan, CO via shopee (gratong)
+❕dom jakarta, indonesia
+❕you will be notifed when your items have arrived in ina.
+❕no need to ask for status barang, we have a spreadsheet in our pinned (updated weekly)
+
+❗️we have all the rights to decline a split requests if we think your split is hard to get filled or too expensive.
+❗️no payment via checkout shopee, only split transfer.", "attachment": {"type": "media", "media": {"id": "48909183894931"}}}}}'
